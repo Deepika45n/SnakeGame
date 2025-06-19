@@ -18,6 +18,8 @@ A classic 2D Snake Game built using **Java AWT** and **Swing**. This desktop app
 
 ## 🖥️ Screenshots
 
-sgame.png
+![Snakegame running](sgame.png)
+
+![Snakegame gameover](Screenshot2025-06-19.png)
 
 
